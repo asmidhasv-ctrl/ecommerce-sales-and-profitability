@@ -96,13 +96,13 @@ The dashboard (`Power_BI_Dashboard/ecommerce_sales_dashboard.pbix`) includes:
 
 **Full dashboard (unfiltered):**
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 **Filtered to Electronics** — notably, every region shows a loss on
 Electronics specifically, confirming the unprofitability is a category-wide
 issue rather than concentrated in one region:
 
-![Dashboard Filtered to Electronics](Screenshots/dashboard_filtered_electronics.png)
+![Dashboard Filtered to Electronics](dashboard_filtered_electronics.png)
 
 Open the `.pbix` file directly in Power BI Desktop (free) to interact with
 it yourself.
