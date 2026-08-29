@@ -117,9 +117,3 @@ it yourself.
    surface the Electronics-profitability finding
 4. Built an interactive Power BI dashboard with KPI cards, trend analysis,
    conditional formatting, and slicers for exploration
-
-## Next Steps
-
-- Publish the dashboard to Power BI Service for a live shareable link
-  (requires a work/school-type Microsoft account)
-- Extend the SQL analysis with cohort or repeat-customer queries
